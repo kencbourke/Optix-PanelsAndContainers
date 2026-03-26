@@ -459,10 +459,12 @@ Children:
       Type: BaseVariableType
       DataType: HorizontalAlignment
       ModellingRule: Optional
+      Value: 3
     - Name: VerticalAlignment
       Type: BaseVariableType
       DataType: VerticalAlignment
       ModellingRule: Optional
+      Value: 3
     - Name: Ellipse1
       Type: Ellipse
       Children:
@@ -500,7 +502,6 @@ Children:
       Type: BaseDataVariableType
       DataType: FillModeEnum
       ModellingRule: Optional
-      Value: 1
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -513,9 +514,9 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 100.0
+      Value: 570.0
     - Name: Height
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 100.0
+      Value: 280.0
